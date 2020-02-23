@@ -1,5 +1,6 @@
 class TicTacToe
   def initialize(board)
+  end
 end
 
 WIN_COMBINATIONS = [
